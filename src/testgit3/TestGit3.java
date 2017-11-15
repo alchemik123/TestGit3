@@ -16,6 +16,7 @@ public class TestGit3 {
      */
     public static void main(String[] args) {
         //v2
+		int v2;
     }
     
 }
